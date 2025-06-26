@@ -16,6 +16,6 @@
     "moduleResolution": "Bundler",
     "target": "ES2022",
     "baseUrl": ".",
-    "types": ["node"]
+    "types": ["node", "@remix-run/cloudflare", "@cloudflare/workers-types/2023-07-01"]
   }
 }
